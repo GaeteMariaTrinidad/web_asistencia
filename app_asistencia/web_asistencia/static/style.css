@@ -1,0 +1,11 @@
+.logo {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.tamannio_logo{
+    width: 100%;
+    max-width: 100px;
+}
+
